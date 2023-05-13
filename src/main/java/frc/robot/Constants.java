@@ -12,7 +12,7 @@ public final class Constants {
 
     /** Ports used by controllers. */
     public static final class ControllerPorts {
-        public static final int CONTROLLER = 0;
+        public static final int CONTROLLER_PORT = 0;
     }
 
     /** Motor IDs used by the drivetrain. */
